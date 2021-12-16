@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "date": "2021-12-16T09:33:28.609Z",
+      "message": "Server is not working on port 5 01",
+      "tech": "Ankit dewangan",
+      "attention": true
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Abhijeet",
+      "lastName": "Raut",
+      "id": 1
+    },
+    {
+      "firstName": "abhijeet",
+      "lastName": "raut",
+      "id": 2
+    },
+    {
+      "firstName": "Pravin",
+      "lastName": "Upase",
+      "id": 3
+    }
+  ]
+}
